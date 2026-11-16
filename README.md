@@ -9,3 +9,6 @@ On frontendiga ja backendiga veebiapi
 # Arendajad
 Martin Gert Puura
 Katri Lotamõis
+
+# ERD
+![alt text](image.png)
