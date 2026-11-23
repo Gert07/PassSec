@@ -11,4 +11,4 @@ Martin Gert Puura
 Katri Lotamõis
 
 # ERD
-![alt text](image.png)
+<img width="827" height="756" alt="image" src="https://github.com/user-attachments/assets/96e6268d-b735-4303-a33b-998ee95af426" />
